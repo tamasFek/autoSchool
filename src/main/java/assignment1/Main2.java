@@ -1,4 +1,4 @@
-package Assignment1;
+package assignment1;
 import com.welcome.Hello;
 import java.util.Scanner;
 public class Main2 {
